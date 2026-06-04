@@ -197,10 +197,10 @@ Profile Link: [https://github.com](https://github.com/ayemteezy)
 [issues-url]: https://github.com/ayemteezy/odin-landing-page/issues
 [license-shield]: https://img.shields.io/github/license/ayemteezy/odin-landing-page.svg?style=for-the-badge
 [license-url]: https://github.com/ayemteezy/odin-landing-page/edit/main/LICENSE
-[linkedin-shield]: https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/laurence-lester-cari%C3%B1o/
 [product-screenshot]: images/full-design.png
-[HTML.com]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
+[HTML.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS.com]: https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff
+[CSS.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
