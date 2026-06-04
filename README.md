@@ -187,20 +187,20 @@ Profile Link: [https://github.com](https://github.com/ayemteezy)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://shields.io
+[contributors-shield]: https://img.shields.io/github/contributors/ayemteezy/odin-landing-page.svg?style=for-the-badge
 [contributors-url]: https://github.com/ayemteezy/odin-landing-page/graphs/contributors
-[forks-shield]: https://shields.io
+[forks-shield]: https://img.shields.io/github/forks/ayemteezy/odin-landing-page.svg?style=for-the-badge
 [forks-url]: http://github.com/ayemteezy/odin-landing-page/forks
-[stars-shield]: https://shields.io
+[stars-shield]: https://img.shields.io/github/stars/ayemteezy/odin-landing-page.svg?style=for-the-badge
 [stars-url]: https://github.com/ayemteezy/odin-landing-page/stargazers
-[issues-shield]: https://shields.io
+[issues-shield]: https://img.shields.io/github/issues/ayemteezy/odin-landing-page.svg?style=for-the-badge
 [issues-url]: https://github.com/ayemteezy/odin-landing-page/issues
-[license-shield]: https://shields.io
+[license-shield]: https://img.shields.io/github/license/ayemteezy/odin-landing-page.svg?style=for-the-badge
 [license-url]: https://github.com/ayemteezy/odin-landing-page/edit/main/LICENSE
-[linkedin-shield]: https://shields.io
+[linkedin-shield]: https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff
 [linkedin-url]: https://www.linkedin.com/in/laurence-lester-cari%C3%B1o/
-[product-screenshot]: images/screenshot.png
-[HTML.com]: https://shields.io
+[product-screenshot]: images/full-design.png
+[HTML.com]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS.com]: https://shields.io
+[CSS.com]: https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
